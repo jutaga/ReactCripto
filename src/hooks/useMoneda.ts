@@ -1,7 +1,5 @@
 import { useState } from "react"
 
-
-
 export const useMoneda = () => {
 
     const [moneda, setMoneda] = useState<string>('');
