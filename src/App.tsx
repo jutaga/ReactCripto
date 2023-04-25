@@ -41,7 +41,7 @@ export const App = () => {
 
       <div className="row">
         <div className="col-md-6 ">
-          <img className="img-fluid mt-5" src="https://jutaga.github.io/ReactCripto/cryptomonedas.png" alt="crypto" />
+          <img className="img-fluid mt-5" src="./src/cryptomonedas.png" alt="crypto" />
         </div>
 
         <div className="col-md-6">
